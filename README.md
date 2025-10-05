@@ -29,7 +29,13 @@ This project demonstrates **front-end development skills** including:
 ✅ Responsive design (works on mobile & desktop)  
 
 ## 📷 Screenshot
-(Add a screenshot of your app here after running it)
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5c629e49-4b39-4007-8076-eeba35573cd7" />
+
+
+
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9ccd9a01-816b-4e53-a77e-bbeb47bdedee" />
+
+
 
 ## 🚀 How to Run
 1. Download or clone this repository.  
